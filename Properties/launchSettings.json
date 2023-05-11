@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Neat": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Windows\\Desktop\\Neat\\jogo",
+      "nativeDebugging": true
+    }
+  }
+}
